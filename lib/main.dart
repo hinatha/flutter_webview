@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:webview_app/view/input_page.dart';
+import 'package:flutter_webview/view/input_page.dart'; // 'root folder name'/view/input_page.dart
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));

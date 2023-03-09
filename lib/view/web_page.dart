@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:webview_app/provider.dart';
+import 'package:flutter_webview/provider.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class WebPage extends StatefulWidget {

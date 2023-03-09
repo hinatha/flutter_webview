@@ -1,8 +1,8 @@
 import 'package:adaptive_dialog/adaptive_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:webview_app/provider.dart';
-import 'package:webview_app/view/web_page.dart';
+import 'package:flutter_webview/provider.dart';
+import 'package:flutter_webview/view/web_page.dart';
 
 class InputPage extends ConsumerWidget {
   const InputPage({Key? key}) : super(key: key);
